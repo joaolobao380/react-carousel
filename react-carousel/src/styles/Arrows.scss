@@ -1,6 +1,6 @@
 $clickableAreaSize: 42px;
-$clickableAreaColor: #7b59ff;
-$clickableAreaColor__hover: lighten(#7b59ff, 3%);
+$clickableAreaColor: #12A189;
+$clickableAreaColor__hover: lighten(#12B69A, 3%);
 $disabledButtonColor: #cccccc;
 
 $arrowColor: #fff;
@@ -54,7 +54,7 @@ $arrowWeight: 3px;
         }
     }
   }
-  
+
   &:disabled {
     background-color: $disabledButtonColor;
   }
